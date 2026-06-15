@@ -3,7 +3,7 @@
 ## 📁 Структура каталогов и файлов
 
 ### Документация
-- `Attestacionnyi_list_PM11_dvukh...` — Аттестационный лист (PM11, возможно, две части)
+- `Attestacionnyi_list_PM11_dvukh...` — Аттестационный лист 
 - `Dnevnik.docx` / `Dnevnik.pdf` — Дневник (в форматах Word и PDF)
 - `Otchyotikikik.docx` / `Otchyotikikik.pdf` — Отчёт (также в двух форматах)
 - `презентация426743.pptx` / `презентация426743.pdf` — Презентация (исходная PowerPoint и PDF-копия)
